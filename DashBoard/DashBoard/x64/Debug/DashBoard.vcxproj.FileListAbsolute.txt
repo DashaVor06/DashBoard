@@ -1,0 +1,11 @@
+C:\Users\vladimir\source\repos\DashBoard\DashBoard\x64\Debug\DashBoard.vcxproj.AssemblyReference.cache
+C:\Users\vladimir\source\repos\DashBoard\DashBoard\x64\Debug\DashBoard.FMain.resources
+C:\Users\vladimir\source\repos\DashBoard\DashBoard\x64\Debug\DashBoard.vcxproj.GenerateResource.cache
+C:\Users\vladimir\source\repos\DashBoard\DashBoard\x64\Debug\DashBoard.vcxproj.Up2Date
+C:\Users\vladimir\source\repos\DashBoard\x64\Debug\dashPicBoxLib.pdb
+C:\Users\Dasha\Desktop\My games\DashBoard\DashBoard\x64\Debug\DashBoard.vcxproj.AssemblyReference.cache
+C:\Users\Dasha\Desktop\My games\DashBoard\DashBoard\x64\Debug\DashBoard.FMain.resources
+C:\Users\Dasha\Desktop\My games\DashBoard\DashBoard\x64\Debug\DashBoard.FStart.resources
+C:\Users\Dasha\Desktop\My games\DashBoard\DashBoard\x64\Debug\DashBoard.vcxproj.GenerateResource.cache
+C:\Users\Dasha\Desktop\My games\DashBoard\DashBoard\x64\Debug\DashBoard.vcxproj.Up2Date
+C:\Users\Dasha\Desktop\My games\DashBoard\x64\Debug\dashPicBoxLib.pdb

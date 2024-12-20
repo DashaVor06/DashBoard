@@ -1,0 +1,68 @@
+  dashPicBox.dashPicBoxl.resources - Embedded, ContainedInManifestFile, 
+ImageRuntimeVersion: v4.0.30319
+Assembly dashPicBoxLib, Version=1.0.*, Culture=Invariant Language (Invariant Country): 
+	hash=SHA1, flags=PublicKey
+Assembly mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089: 
+	hash=None, flags=None
+Assembly System.Data, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089: 
+	hash=None, flags=None
+Assembly System, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089: 
+	hash=None, flags=None
+Assembly System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a: 
+	hash=None, flags=None
+Assembly System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089: 
+	hash=None, flags=None
+Assembly System.Xml, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089: 
+	hash=None, flags=None
+Class dashPicBox.Class1: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+Class dashPicBox.dashPicBoxl: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+  :System.Windows.Forms.UserControl
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+  Properties:
+    Int32 Points 'get set' : 
+    Int32 NewLand 'get set' : 
+    Int32 PrevLand 'get set' : 
+    Int32 Land 'get set' : 
+    Int32 State 'get set' : 
+    Int32 Depth 'get set' : 
+    Double Time 'get set' : 
+    Int32 SpeedX 'get set' : 
+    Int32 Angle 'get set' : 
+    Int32 DigIndex 'get set' : 
+    Int32 Alg  'get set' : 
+    Int32 PicIndex 'get set' : 
+    Int32 KolPics 'get set' : 
+  Methods:
+    get_KolPics(): PrivateScope, Public, HideBySig, SpecialName
+    set_KolPics(Int32): PrivateScope, Public, HideBySig, SpecialName
+    get_PicIndex(): PrivateScope, Public, HideBySig, SpecialName
+    set_PicIndex(Int32): PrivateScope, Public, HideBySig, SpecialName
+    get_Alg(): PrivateScope, Public, HideBySig, SpecialName
+    set_Alg(Int32): PrivateScope, Public, HideBySig, SpecialName
+    get_DigIndex(): PrivateScope, Public, HideBySig, SpecialName
+    set_DigIndex(Int32): PrivateScope, Public, HideBySig, SpecialName
+    get_Angle(): PrivateScope, Public, HideBySig, SpecialName
+    set_Angle(Int32): PrivateScope, Public, HideBySig, SpecialName
+    get_SpeedX(): PrivateScope, Public, HideBySig, SpecialName
+    set_SpeedX(Int32): PrivateScope, Public, HideBySig, SpecialName
+    get_Time(): PrivateScope, Public, HideBySig, SpecialName
+    set_Time(Double): PrivateScope, Public, HideBySig, SpecialName
+    get_Depth(): PrivateScope, Public, HideBySig, SpecialName
+    set_Depth(Int32): PrivateScope, Public, HideBySig, SpecialName
+    get_State(): PrivateScope, Public, HideBySig, SpecialName
+    set_State(Int32): PrivateScope, Public, HideBySig, SpecialName
+    get_Land(): PrivateScope, Public, HideBySig, SpecialName
+    set_Land(Int32): PrivateScope, Public, HideBySig, SpecialName
+    get_PrevLand(): PrivateScope, Public, HideBySig, SpecialName
+    set_PrevLand(Int32): PrivateScope, Public, HideBySig, SpecialName
+    get_NewLand(): PrivateScope, Public, HideBySig, SpecialName
+    set_NewLand(Int32): PrivateScope, Public, HideBySig, SpecialName
+    get_Points(): PrivateScope, Public, HideBySig, SpecialName
+    set_Points(Int32): PrivateScope, Public, HideBySig, SpecialName
+    Draw(PaintEventArgs): PrivateScope, Public, HideBySig
+    Coordinates(): PrivateScope, Public, HideBySig
+    GetState(dashPicBoxl, Int32): PrivateScope, Public, HideBySig
+    isIntersectingX(dashPicBoxl): PrivateScope, Public, HideBySig
+    isSliding(dashPicBoxl): PrivateScope, Public, HideBySig
+    isIntersectingXY(dashPicBoxl): PrivateScope, Public, HideBySig
