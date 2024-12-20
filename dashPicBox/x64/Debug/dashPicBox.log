@@ -1,0 +1,16 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(531,5): warning MSB8028: The intermediate directory (x64\Debug\) contains files shared from another project (dashPicBox.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  pch.cpp
+  AssemblyInfo.cpp
+  dashDigit.cpp
+  dashPicBox.cpp
+  dashPicBoxl.cpp
+C:\Users\Dasha\Desktop\My games\dashPicBox\dashPicBoxl.h(209,12): warning C4101: 'y1': unreferenced local variable
+  (compiling source file '/dashPicBoxl.cpp')
+  
+C:\Users\Dasha\Desktop\My games\dashPicBox\dashPicBoxl.h(209,8): warning C4101: 'x1': unreferenced local variable
+  (compiling source file '/dashPicBoxl.cpp')
+  
+  Generating Code...
+  .NETFramework,Version=v4.7.2.AssemblyAttributes.cpp
+  AssemblyInfo.obj : MSIL module encountered; incremental linking is disabled for MSIL; performing full link
+  dashPicBox.vcxproj -> C:\Users\Dasha\Desktop\My games\DashBoard\x64\Debug\dashPicBoxLib.dll

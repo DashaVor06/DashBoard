@@ -1,0 +1,6 @@
+C:\Users\vladimir\source\repos\dashPicBox\x64\Debug\dashPicBox.vcxproj.AssemblyReference.cache
+C:\Users\vladimir\source\repos\dashPicBox\x64\Debug\dashPicBox.dashPicBoxl.resources
+C:\Users\vladimir\source\repos\dashPicBox\x64\Debug\dashPicBox.vcxproj.GenerateResource.cache
+C:\Users\Dasha\Desktop\My games\dashPicBox\x64\Debug\dashPicBox.vcxproj.AssemblyReference.cache
+C:\Users\Dasha\Desktop\My games\dashPicBox\x64\Debug\dashPicBox.dashPicBoxl.resources
+C:\Users\Dasha\Desktop\My games\dashPicBox\x64\Debug\dashPicBox.vcxproj.GenerateResource.cache
